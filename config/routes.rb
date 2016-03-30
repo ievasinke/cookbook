@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  resources :recipes
   # match ':controller(/:action(/:id))', via: :get
 
   # The priority is based upon order of creation: first created -> highest priority.
